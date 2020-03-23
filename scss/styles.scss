@@ -1,5 +1,8 @@
 @import "./normalize";
+@import "./variables";
+
+@import "./grid";
 
 body {
-  border: 1px solid #a0c;
+  border: 1px solid $color-debug;
 }
